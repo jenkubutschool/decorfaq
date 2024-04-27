@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color:#242424;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  animation-timing-function: ease;
+  transition: transform 2s ease-in-out;
+}
+.logo:hover{
+  transform: rotate(360deg);
+}
