@@ -63,7 +63,7 @@ function App() {
           <h1>Failed to Fetch</h1>
           When trying to authorise the decor bot, you might see "Failed to Fetch". It might be an internet thing, try refreshing, reinstalling the plugin or reinstalling/repairing vencord
           <br/><br/>
-          If you see it when trying to upload a decor, try refreshing or reauthorising, otherwise it could be because there is something wrong with the image you are trying to upload. <br/><br/> The max size for decors is 768x768, so make sure it is that size or smaller, there is also a 2mb file size limit - so try to keep it below that. Decors are automatically resized to 255x255 after being uploaded anyway, so that is a suitable size to use when uploading. For APNGs, try to reassemble the apng using <a href="https://ezgif.com/apng-maker">EZGIF's APNG Maker.</a>
+          If you see it when trying to upload a decor, try refreshing or reauthorising, otherwise it could be because there is something wrong with the image you are trying to upload. <br/><br/> There is a 2mb file size limit - so try to keep it below that. Decors are automatically resized to 288x288 after being uploaded anyway, so that is a suitable size to use when uploading. For APNGs, try to reassemble the apng using <a href="https://ezgif.com/apng-maker">EZGIF's APNG Maker.</a>
         </p>
 
         <p id="Template">
