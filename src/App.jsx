@@ -55,7 +55,7 @@ function App() {
           <br/><br/>
           If all of the decors show up as broken images, see if you can access <a href='https://decor.fieryflames.dev/api/users/1076130548797415434'>this</a> page. If you can't, something in your network is blocking it, and decor won't work unless you're able to get it unblocked.
           <br/><br/>
-          Incase it isn't blocked, in Vencord open DevTools (with CTRL + SHIFT + I), and look for decors response in the network tab. If it returns 200, then that means it's your OS' fault.
+          Incase it isn't blocked, in Vencord open DevTools (with CTRL + SHIFT + I), and look for decors response in the network tab. If it returns 200, then the cdn is being blocked, usually by parental controls or firewalls..
         </p>
         
 
